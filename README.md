@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mjredoble
-- 👀 I’m interested in mobila application development
+- 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning mobile malware analysis
 
 <!---
